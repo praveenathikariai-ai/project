@@ -83,8 +83,7 @@ supplied video (no live camera or synthetic data involved).
 Generative AI (Claude) was used during the final development of this
 prototype as i was getting ideas to add on. Mainly for -- 
 
-- Reviewing `smart_glasses.py` for correctness and flagging platform
-  assumptions  and calibration.
+- Reviewing `smart_glasses.py` for correctness, assumptions and calibration.
 - Writing `colab_report_from_video.py`, adapting the detection/direction/
   distance logic already present in `smart_glasses.py`.
 
